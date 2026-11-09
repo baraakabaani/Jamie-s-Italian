@@ -3,6 +3,7 @@
 Screenshot *.png
 unnamed*.jpg
 *.webp
+*.jfif
 
 # OS cruft
 .DS_Store
